@@ -1,4 +1,4 @@
-# BrantNiven.github.io
+y# BrantNiven.github.io
 # Brant M. Niven
 ### Data Analyst | Business Intelligence | Revenue & Marketing Analytics
 
@@ -102,7 +102,7 @@ This structure allows vacancy to be calculated **by date**, not just by unit cou
 ---
 
 ### Vacancy Forecast Logic
-Using the unit tracker, vacancy is projected across a **4-week horizon** by evaluating each unit’s expected state on specific future dates.
+Using the unit tracker, vacancy is projected across a **4-week horizon** by evaluating each unit’s expected state on very specific future dates.
 
 Forecast dates are standardized to:
 - Weekly checkpoints (e.g., Thursdays)
@@ -203,6 +203,35 @@ Developed an automated inspection-to-marketing validation workflow that:
 - Increased confidence in listing data across leasing and marketing teams
 
 -<img width="1920" height="1080" alt="Inspections - Market Descriptions Fix" src="https://github.com/user-attachments/assets/0375575d-3e20-4fa7-a5cd-f67323af5298" />
+
+---
+## Competitor Mapping & Normalization Engine
+
+Built an automated competitor-mapping and normalization workflow using unstructured tour-note logs to identify, standardize, and validate competitor references at scale.
+
+This project converts messy, free-text tour notes into a single, unified competitor dataset by applying structured mapping logic, address normalization, and validation rules.
+
+### Key Capabilities
+- Parsed raw tour notes containing inconsistent competitor names, abbreviations, and addresses
+- Created a centralized mapping table to normalize competitors to a standardized name and address
+- Flagged invalid, ambiguous, or incomplete competitor mentions for QA review
+- Produced a clean, reusable competitor reference table for downstream analytics
+
+### Impact
+- Eliminated duplicate and fragmented competitor records
+- Enabled accurate competitor-level aggregation and benchmarking
+- Established a scalable foundation for competitive intelligence and tour-loss analysis
+
+### Tools & Techniques
+- Excel & Power Query
+- Text parsing and normalization logic
+- Mapping tables for controlled standardization
+- QA flags and validation checks
+
+-<img width="1920" height="1080" alt="TL Analysis" src="https://github.com/user-attachments/assets/ca2c4677-e83b-4c45-8852-c9e2c3dc7287" />
+
+-<img width="1920" height="1080" alt="Mapping TL" src="https://github.com/user-attachments/assets/6857c876-ce61-4956-a3ea-1916cc3dfe59" />
+
 
 ---
 
