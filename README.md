@@ -58,7 +58,7 @@ LTA Explorer replaces static, siloed reporting with a unified analytics layer th
 - Property-level performance diagnostics
 - Executive-ready dashboards
 
--<img width="1920" height="1080" alt="LTA - Explorer" src="https://github.com/user-attachments/assets/2e1c1efa-593c-4f91-8b20-fdf00030a856" />
+-<img width="1920" height="1080" alt="LTA - Explorer" src="https://github.com/user-attachments/assets/6e912698-2d7a-4907-839c-586b73ea71fe" />
 
 -<img width="1920" height="1080" alt="LTA - Explorer 2" src="https://github.com/user-attachments/assets/5ebf9ebd-2891-4449-b41e-949b06486a2f" />
 
@@ -151,7 +151,58 @@ Key benefits:
 - Dashboard Design & Executive Reporting
 
 -<img width="1920" height="1080" alt="Vacancy Forecaster" src="https://github.com/user-attachments/assets/87476ece-c578-4bd0-9469-862a1fdf4af0" />
+---
+## 🏢 Inspection → Marketing Description Reconciliation
 
+### Project Overview
+Built a unit-level data reconciliation framework to align **marketing descriptions** with **real-world inspection results**, ensuring advertised unit features accurately reflect on-site conditions. This project unified multiple operational data sources to systematically detect inconsistencies, surface outliers, and generate actionable correction logic.
+
+---
+
+### Problem
+Marketing descriptions frequently drifted from actual unit conditions due to:
+- Renovation and appliance upgrades not reflected in listings
+- Inconsistent terminology across inspection and marketing systems
+- Manual updates that did not scale across large unit inventories
+- Limited visibility into where discrepancies existed
+
+This created data trust issues and reduced listing accuracy.
+
+---
+
+### Solution
+Developed an automated inspection-to-marketing validation workflow that:
+- Unified **inspection data** and **marketing description datasets** at the unit level
+- Normalized renovation, appliance, and flooring attributes across sources
+- Encoded discrepancy logic to identify mismatches (e.g., stainless steel, dishwasher, flooring)
+- Generated structured **“fix recommendations”** to correct marketing descriptions
+- Flagged outliers requiring manual review versus safe automated updates
+
+---
+
+### Key Capabilities
+- Unit-level inspection reconciliation
+- Attribute standardization and normalization
+- Discrepancy detection and classification
+- Automated marketing description correction logic
+- Scalable QA framework for ongoing inspections
+
+---
+
+### Tools & Stack
+- **Excel / Power Query** – data transformation, joins, and normalization  
+- **Rule-based logic** – discrepancy detection and classification  
+- **Standardized mapping tables** – appliance, renovation, and flooring definitions  
+
+---
+
+### Outcome
+- Improved accuracy and consistency of unit marketing descriptions
+- Reduced manual QA effort for inspections and listings
+- Created a repeatable framework to keep marketing aligned with real-world unit conditions
+- Increased confidence in listing data across leasing and marketing teams
+
+-<img width="1920" height="1080" alt="Inspections - Market Descriptions Fix" src="https://github.com/user-attachments/assets/0375575d-3e20-4fa7-a5cd-f67323af5298" />
 
 ---
 
