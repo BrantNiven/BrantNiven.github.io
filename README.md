@@ -8,7 +8,7 @@ y# BrantNiven.github.io
 ---
 
 ## About Me
-I am a Data Analyst specializing in revenue and marketing analytics across large, multi-property real estate portfolios.
+I am a Data Analyst focused in revenue and marketing analytics across large, multi-property real estate portfolios.
 
 A core strength of my work is **unifying fragmented data across multiple systems and sources** — including ILS platforms, internal leasing data, marketing expenses, and operational reports — into standardized, reusable analytical models.
 
@@ -44,6 +44,7 @@ Tools I regularly use include **Excel (Power Query & advanced formulas), SQL Ser
   - $ / Tour
   - $ / Application
 - Year-over-year and source-level performance comparisons
+- Alongside individual expenses down to the dollar
 
 ### Tools & Stack
 - **SQL Server** — core data modeling and joins  
