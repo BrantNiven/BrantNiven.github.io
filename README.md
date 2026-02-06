@@ -13,11 +13,15 @@ I am a Data Analyst focused in revenue and marketing analytics across large, mul
 A core strength of my work is **unifying fragmented data across multiple systems and sources** — including ILS platforms, internal leasing data, marketing expenses, and operational reports — into standardized, reusable analytical models.
 
 I focus on:
-- Normalizing inconsistent schemas and definitions
-- Aligning time series and multi-year datasets
-- Building single-source-of-truth tables that support funnels, forecasting, and ROI analysis
+- Modernizing reporting and analytics across multiple business functions
+- Normalizing inconsistent schemas, definitions, and source systems
+- Aligning time-series and multi-year datasets for trend and YoY analysis
+- Building scalable dashboards with standardized, decision-ready metrics
+- Converting unstructured and fragmented data into reusable analytical models
+- Integrating AI-assisted workflows to improve efficiency, repeatability, and insight delivery
+- Creating single-source-of-truth tables that support funnels, forecasting, and ROI analysis
 
-My work enables leadership teams to move from siloed reports to cohesive, decision-ready insights.
+My work emphasizes detail, accuracy, and adaptability—enabling leadership teams to move from siloed reports to cohesive, insight-driven decision-making across reporting pipelines.
 
 Tools I regularly use include **Excel (Power Query & advanced formulas), SQL Server, Python, and BI / Looker dashboards**
 
